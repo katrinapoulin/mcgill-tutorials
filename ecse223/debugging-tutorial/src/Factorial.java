@@ -15,8 +15,8 @@ public class Factorial {
 	 * @param base the base of the expression
 	 */
 	public Factorial(int base) {
-		this.base = base;
-		this.result = 0;
+		base = base;
+		result = 0;
 	}
 	
 	/**
