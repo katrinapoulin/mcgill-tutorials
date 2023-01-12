@@ -1,0 +1,8 @@
+*.settings
+*.classpath
+*.class
+*.cproject
+*.project
+*Debug
+*doc
+*bin

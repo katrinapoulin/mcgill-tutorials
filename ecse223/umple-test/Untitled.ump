@@ -1,0 +1,15 @@
+class Student
+{
+    name;
+  int id;
+}
+
+//$?[End_of_model]$?
+
+namespace -;
+
+
+class Student
+{
+  position 159 134 112.914 59.8672;
+}
