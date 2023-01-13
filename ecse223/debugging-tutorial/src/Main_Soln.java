@@ -15,7 +15,7 @@ public class Main_Soln {
 	 * 
 	 * @param args
 	 */
-	public static void mainn(String[] args) {
+	public static void main(String[] args) {
 		@SuppressWarnings("resource")
 		Scanner s = new Scanner(System.in);
 		int historyCounter = 0;
